@@ -4,7 +4,7 @@ email: mirabdullah@vt.edu
 url: https://github.com/mir-m-abdullah
 description: "Mir Abdullah's Portfolio Website"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Data Scientist"
 meta_author: Abdullah Mir
 
 # Google webmaster tools
@@ -34,8 +34,7 @@ color:
 footer:
   copyright: Mir Abdullah
   location: Virginia
-  social: Around the Web
-  credits: Credits
+  social: Socials
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
