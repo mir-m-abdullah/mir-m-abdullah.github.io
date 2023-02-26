@@ -5,7 +5,7 @@ date: 2023-02-25
 img: cabin.png
 alt: image-alt
 project-date: Feb 2023
-client: Hobby
+skills: 
 category: Data Science
 description: A machine learning model to predict whether a breast cancer tumor is malignant or benign, using various statistical analysis tools. Identified the most accurate model and optimized its hyperparameters for better performance. The model can be used to help medical professionals make more informed decisions in the diagnosis and treatment of breast cancer.
 ---
